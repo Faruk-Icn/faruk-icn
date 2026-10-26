@@ -8,6 +8,7 @@
 ## 🌐 Find Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Faruk--Icn-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faruk-Icn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk_İcen-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk-icen-97a0b5351/)
 
 # 💻 Tech Stack
 
