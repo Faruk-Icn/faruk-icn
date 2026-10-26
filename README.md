@@ -25,7 +25,7 @@
 
 | Project | What it does |
 | --- | --- |
-| [⚽ PitchPulse AI](https://github.com/Faruk-Icn/PitchPulse-AI) | Live tactical overlays and a personalized fan feed, built around synthetic football events. [Studio preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/studio-demo.png) · [Fan feed preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/fan-demo.png) |
+| [⚽ PitchPulse AI](https://github.com/Faruk-Icn/PitchPulse-AI) | Built for the [Inside the Game Developer Hackathon](https://innovationstudio.microsoft.com/hackathons/insidethegamedeveloperhackathon). Live tactical overlays and a personalized fan feed, built around synthetic football events. [Studio preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/studio-demo.png) · [Fan feed preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/fan-demo.png) |
 | [🌸 Dear Data: Mood Garden](https://github.com/Faruk-Icn/Dear-Data-100-Project) | A creative visualization of where, why, and how long I wait—and how those moments affect my mood. |
 
 # 📊 GitHub Stats
