@@ -43,11 +43,11 @@ A creative visualization of where, why, and how long I wait—and how those mome
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk-Icn&theme=github_dark&hide_border=false&layout=compact)
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Faruk-Icn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub trophies](https://trophy.ryglcloud.net/?username=Faruk-Icn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </details>
 
-[![Profile views](https://visitcount.itsvg.in/api?id=Faruk-Icn&icon=0&color=4)](https://visitcount.itsvg.in)
+[![Profile views](https://komarev.com/ghpvc/?username=Faruk-Icn&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ## Find me
 
