@@ -14,7 +14,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=robloxstudio&logoColor=white)
-![GML](https://img.shields.io/badge/GML-71B417?style=flat&logo=gamemaker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -28,6 +27,7 @@
 | Project | What it does |
 | --- | --- |
 | [⚽ PitchPulse AI](https://github.com/Faruk-Icn/PitchPulse-AI) | Built for the [Inside the Game Developer Hackathon](https://innovationstudio.microsoft.com/hackathons/insidethegamedeveloperhackathon). Live tactical overlays and a personalized fan feed, built around synthetic football events. [Studio preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/studio-demo.png) · [Fan feed preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/fan-demo.png) |
+| [🧩 GML](https://github.com/Faruk-Icn/GML) | Open source Luau framework for loading Roblox modules with `Init` and `Start` hooks, plus utilities for signals, remotes, cleanup, timers, and more. |
 | [🌸 Dear Data: Mood Garden](https://github.com/Faruk-Icn/Dear-Data-100-Project) | A creative visualization of where, why, and how long I wait—and how those moments affect my mood. |
 
 # 📊 GitHub Stats
