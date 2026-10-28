@@ -49,6 +49,8 @@ A creative visualization of where, why, and how long I wait—and how those mome
 
 [![Profile views](https://komarev.com/ghpvc/?username=Faruk-Icn&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Faruk-Icn/badge.svg)](https://hub.xerj.org/contributors/Faruk-Icn)
+
 ## Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Faruk--Icn-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faruk-Icn)<br>
