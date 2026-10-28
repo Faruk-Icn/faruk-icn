@@ -8,7 +8,7 @@
 ## 🌐 Find Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Faruk--Icn-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faruk-Icn)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk_İcen-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk-icen-97a0b5351/)<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk_Icen-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk-icen-97a0b5351/)<br><br>
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/faruk.icen)
 
 # 💻 Tech Stack
