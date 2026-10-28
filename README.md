@@ -9,6 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Faruk--Icn-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faruk-Icn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk_İcen-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk-icen-97a0b5351/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Faruk-FFDD00?style=flat&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/faruk.icen)
 
 # 💻 Tech Stack
 
@@ -29,6 +30,11 @@
 | [⚽ PitchPulse AI](https://github.com/Faruk-Icn/PitchPulse-AI) | Built for the [Inside the Game Developer Hackathon](https://innovationstudio.microsoft.com/hackathons/insidethegamedeveloperhackathon). Live tactical overlays and a personalized fan feed, built around synthetic football events. [Studio preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/studio-demo.png) · [Fan feed preview](https://github.com/Faruk-Icn/PitchPulse-AI/blob/main/media/fan-demo.png) |
 | [🧩 GML](https://github.com/Faruk-Icn/GML) | Open source Luau framework for loading Roblox modules with `Init` and `Start` hooks, plus utilities for signals, remotes, cleanup, timers, and more. |
 | [🌸 Dear Data: Mood Garden](https://github.com/Faruk-Icn/Dear-Data-100-Project) | A creative visualization of where, why, and how long I wait—and how those moments affect my mood. |
+
+## ⭐ Stars appreciated
+
+If you enjoy any of my projects, a star means a lot!<br>
+<img src="https://githubachievements.com/cdn-cgi/image/width=1200/images/starstruck/1.gif" alt="Starstruck GitHub achievement" width="240">
 
 # 📊 GitHub Stats
 
