@@ -14,6 +14,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=robloxstudio&logoColor=white)
+![GML](https://img.shields.io/badge/GML-71B417?style=flat&logo=gamemaker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
