@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Faruk--Icn-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faruk-Icn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk_İcen-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk-icen-97a0b5351/)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Faruk-FFDD00?style=flat&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/faruk.icen)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/faruk.icen)
 
 # 💻 Tech Stack
 
